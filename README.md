@@ -19,3 +19,7 @@ Add the .dll to the Plugins folder of your game and launch the game. Default set
 **`ColorRed`**, **`ColorGreen`**, **`ColorBlue`** - Set the RGB color of the FC ring.
 
 **`VanillaEnabled`** - Show or hide the vanilla full combo display (the lines above and below the combo count)
+
+---
+
+Old repo: https://github.com/bigfoott/FullComboDisplay
